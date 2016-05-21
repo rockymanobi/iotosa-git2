@@ -1,3 +1,5 @@
 # iotosa-git2
 
-今日はGithub覚えて帰るぞ
+Github楽勝だった
+
+だってプルリクできたし。
